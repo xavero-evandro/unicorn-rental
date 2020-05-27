@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "uuid": "9e9c286c-d0f2-4d2b-b410-ebf394d5b5be",
+      "name": "Pinky Pie",
+      "categoryId": "104eb716-6622-4008-b3f8-189f6bbcc58f",
+      "createdAt": "2020-05-01T10:00:00Z",
+      "updatedAt": "2020-05-01T10:00:00Z"
+    },
+    {
+      "uuid": "f5e5641d-9a6e-4a47-8179-f60a51536b81",
+      "name": "Rainbow Dash",
+      "categoryId": "104eb716-6622-4008-b3f8-189f6bbcc58f",
+      "createdAt": "2020-05-01T10:00:00Z",
+      "updatedAt": "2020-05-01T10:00:00Z"
+    },
+    {
+      "uuid": "23ec53a9-8fc0-4888-9c26-663be6c86737",
+      "name": "Fluttershy",
+      "categoryId": "104eb716-6622-4008-b3f8-189f6bbcc58f",
+      "createdAt": "2020-05-01T10:00:00Z",
+      "updatedAt": "2020-05-01T10:00:00Z"
+    },
+    {
+      "uuid": "2e286dc9-9209-4e9d-b8d7-b8f79898d996",
+      "name": "Twilight Sparkle",
+      "categoryId": "51377416-ef47-4dfc-a151-0c722936772b",
+      "createdAt": "2020-05-01T10:00:00Z",
+      "updatedAt": "2020-05-01T10:00:00Z"
+    }
+  ]
+}

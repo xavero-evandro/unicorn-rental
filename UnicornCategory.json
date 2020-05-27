@@ -1,0 +1,12 @@
+{
+  "data": [{
+    "uuid": "104eb716-6622-4008-b3f8-189f6bbcc58f",
+    "basePrice": 8,
+    "lackMinutes": 15
+  },
+  {
+    "uuid": "51377416-ef47-4dfc-a151-0c722936772b",
+    "basePrice": 8,
+    "lackMinutes": 30
+  }]
+}
